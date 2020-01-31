@@ -51,7 +51,7 @@ header {
 .navlist-item {
     color: #0063B2FF;
     text-decoration: none;
-    text-shadow: 2px 2px #00ffdd;
+    text-shadow: 2px 2px #9ad7e2;
 }
 
 
@@ -80,8 +80,9 @@ header {
     background-color: #9CC3D5FF
 }
 .button1 {
-    background-color: rgb(85, 247, 253);
+    background-color: rgb(63, 171, 175);
     border: none;
+    border-radius: 50%;
     color: #0063B2FF;
     padding: 15px 32px;
     text-align: center;
@@ -104,7 +105,7 @@ header {
   }
 .feature {
     text-transform: uppercase;
-    text-shadow: 2px 2px #54e1fa;
+    text-shadow: 2px 2px #9ad7e2;
 
   }
 .muffin_image {
@@ -133,7 +134,7 @@ main {
     margin-top: 10px;
 }
 .sidebar-name {
-    text-shadow: 2px 2px #00ffdd;
+    text-shadow: 2px 2px #9ad7e2;
 }
 footer {
       display: flex;
@@ -148,7 +149,7 @@ footer {
   .up1 {
     color: #0063B2FF;
     text-transform: uppercase;
-    text-shadow: 2px 2px #00ffdd;
+    text-shadow: 2px 2px #9ad7e2;
     text-decoration: none;
 }
 .up1:hover {
@@ -162,10 +163,10 @@ footer {
       width: 30px;
   }
 .nepieciesams1 {
-    text-shadow: 2px 2px #00ffdd;
+    text-shadow: 2px 2px #9ad7e2;
 }
 .pagatavosana1 {
-    text-shadow: 2px 2px #00ffdd;
+    text-shadow: 2px 2px #9ad7e2;
 }
 
 @media screen and (max-width: 382px) {
