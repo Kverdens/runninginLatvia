@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: rgb(111, 66, 111);
+    background-color: #5B84B1ff;
     display: grid;
     grid-template-columns: 60% 40%;
     grid-template-rows: 200px 50px;
@@ -54,16 +54,14 @@ header {
 }
 
 
-/* section {
-    background-color: rgb(216, 137, 216);
-} */
+
 .hero-feature {
     font-family: 'Oswald', sans-serif;
     color: rgb(255, 220, 131);
     text-align: center; 
     margin: 10px 0px 0px 0px;
     padding: 10px;
-    background-color: rgb(111, 66, 111);
+    background-color: #5B84B1ff;
 }
 
 .skat-katalogu {
@@ -78,7 +76,7 @@ header {
     margin: 10px 0px 10px 0px;
     border: 5px;
     padding: 10px;
-    background-color: rgb(111, 66, 111);
+    background-color: #5B84B1ff;
 }
 .button1 {
     background-color: rgb(253, 85, 103);
@@ -123,11 +121,11 @@ header {
     color: rgb(255, 220, 131);
   }
 main {
-      background-color: rgb(111, 66, 111);
+      background-color: #5B84B1ff;
       padding: 10px;
   }
 .sidebar {
-    background-color: rgb(111, 66, 111);
+    background-color: #5B84B1ff;
     color: rgb(255, 220, 131);
     font-family: 'Oswald', sans-serif;
     padding: 20px;
@@ -138,7 +136,7 @@ main {
 }
 footer {
       display: flex;
-      background-color: rgb(111, 66, 111);
+      background-color: #5B84B1ff;
       color: white;
       padding: 10px;
       justify-content: space-between;
@@ -295,7 +293,7 @@ footer {
         grid-template-rows: 1fr;
         justify-items: center;
         align-items: center;
-        background-color: rgb(111, 66, 111);
+        background-color: #5B84B1ff;
         margin: 10px 0px 10px 0px;
     }
     .rekl1 {
