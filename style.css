@@ -20,7 +20,7 @@ header {
     text-align: center;
 }
 .brand-name {
-    font-family: 'Sacramento', cursive;
+    font-family: 'Franklin Gothic Medium', sans-serif;
     color: white;
     font-size: 40px;
     margin: 10px;
@@ -28,6 +28,7 @@ header {
 .brand-logo {
     width: 100%;
     max-width: 100px;
+    border-radius: 50%;
     height: auto;
   }
 .header-nav {
@@ -285,7 +286,7 @@ footer {
     .rekl2 {
         display: block;
         padding: 10px;
-        border: 5px solid red;
+        border: 5px solid rgb(200, 248, 181);
     }
     .hero {
         display: grid;
