@@ -46,7 +46,7 @@ header {
 .navlist {
     display: inline;
     padding: 0px 10px 0px 10px;
-    font-size: 15px;
+    font-size: 25px;
 }
 .navlist-item {
     color: #0063B2FF;
@@ -154,7 +154,7 @@ footer {
 }
 .up1:hover {
     text-shadow: 2px 2px 4px #000000;
-    color: rgb(253, 85, 103)
+    color: rgb(85, 158, 253)
 }
 .follow-logos {
     flex-shrink: 2;
@@ -267,7 +267,7 @@ footer {
     }
     .nepieciesams {
         padding: 0px 10px 10px 10px;
-        border-right: 1px dashed #0063B2FF;
+        border-right: 1px dashed rgb(75, 123, 161);
     }
     .pagatavosana {
         padding: 0px 10px 10px 10px;
@@ -287,7 +287,7 @@ footer {
     .rekl2 {
         display: block;
         padding: 10px;
-        border: 5px solid rgb(200, 248, 181);
+        border: 5px solid rgb(196, 180, 253);
     }
     .hero {
         display: grid;
