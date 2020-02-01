@@ -112,7 +112,7 @@ header {
     max-width: 100%;
     border-radius: 15%;
 }
-.lime-icecream {
+.sac-logo {
     max-width: 100%;
     border-radius: 15;
 }
@@ -164,10 +164,10 @@ footer {
 .follow-logo {
       width: 30px;
   }
-.nepieciesams1 {
+.ind-race1 {
     text-shadow: 2px 2px #9ad7e2;
 }
-.pagatavosana1 {
+.sac-seriali {
     text-shadow: 2px 2px #9ad7e2;
 }
 
@@ -267,11 +267,11 @@ footer {
     .rekl {
         align-self: center;
     }
-    .nepieciesams {
+    .ind-race {
         padding: 0px 10px 10px 10px;
         border-right: 1px dashed rgb(75, 123, 161);
     }
-    .pagatavosana {
+    .sacensibas {
         padding: 0px 10px 10px 10px;
     }
     footer {
@@ -313,18 +313,14 @@ footer {
         grid-column: 1/2;
         grid-row: 1/3;
         padding: 0px 0px 0px 10px;
-        /* border-top: 2px dashed #0063B2FF;
-        border-left: 2px dashed #0063B2FF;
-        border-bottom: 2px dashed #0063B2FF; */
+       
     }
     .article-listing {
         grid-column: 2/3;
         grid-row: 1/3;
         padding: 0;
         margin-right: 10px;
-        /* border-top: 2px dashed #0063B2FF;
-        border-right: 2px dashed #0063B2FF;
-        border-bottom: 2px dashed #0063B2FF; */
+      
     }
     .sidebar {
         grid-column: 3/4;
