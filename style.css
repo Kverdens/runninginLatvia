@@ -82,7 +82,7 @@ header {
 .button1 {
     background-color: rgb(4, 73, 105);
     border: none;
-    border-radius: 50%;
+    border-radius: 15%;
     color: rgb(236, 236, 236);
     padding: 15px 32px;
     text-align: center;
@@ -108,11 +108,13 @@ header {
     text-shadow: 2px 2px #9ad7e2;
 
   }
-.muffin_image {
+.never_image {
     max-width: 100%;
+    border-radius: 15%;
 }
 .lime-icecream {
     max-width: 100%;
+    border-radius: 15;
 }
 .article-feature {
     font-family: 'Franklin Gothic Medium', sans-serif;
