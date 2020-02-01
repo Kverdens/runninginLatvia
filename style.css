@@ -101,7 +101,8 @@ header {
       display: block;
       margin: auto;
       padding: 10px;
-      border: 5px solid rgb(91, 159, 236);
+      border: 5px dashed rgb(30, 32, 150);
+      border-radius: 15%;
   }
 .feature {
     text-transform: uppercase;
@@ -114,7 +115,7 @@ header {
 }
 .sac-logo {
     max-width: 100%;
-    border-radius: 15;
+    border-radius: 15%;
 }
 .article-feature {
     font-family: 'Franklin Gothic Medium', sans-serif;
@@ -289,7 +290,7 @@ footer {
     .rekl2 {
         display: block;
         padding: 10px;
-        border: 5px solid rgb(196, 180, 253);
+        border: 5px dashed rgb(30, 32, 150);
     }
     .hero {
         display: grid;
